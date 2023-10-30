@@ -1,0 +1,23 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "main1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstack290623/30.10.2023.git"
+  },
+  "author": "itay h.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullstack290623/30.10.2023/issues"
+  },
+  "homepage": "https://github.com/fullstack290623/30.10.2023#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
